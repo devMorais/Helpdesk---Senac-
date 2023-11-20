@@ -95,7 +95,7 @@ include_once("verificar.php");
       </div>
       
 	  <div class="modal-body">
-        Deseja realmente sair?
+        Sair?
       </div>
       <div class="modal-footer">
 	   
